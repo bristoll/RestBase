@@ -1,4 +1,4 @@
-package com.bristoll.Controller;
+package com.bristoll.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

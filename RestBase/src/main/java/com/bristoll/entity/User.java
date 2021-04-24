@@ -1,4 +1,4 @@
-package com.bristoll.Entities;
+package com.bristoll.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
